@@ -2,7 +2,7 @@
 title: Título de la práctica
 description: Descripción de máximo 140 caracteres
 tags: etiquetas
-level: Facil, Medio, Avanzado
+level: Fácil, Medio, Avanzado
 authors:
   - { name: Nombre del autor, github: username }
 ---
